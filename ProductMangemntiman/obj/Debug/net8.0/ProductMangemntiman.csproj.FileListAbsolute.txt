@@ -1,0 +1,28 @@
+C:\Users\idres\OneDrive\Desktop\code\ProductMangemntiman\ProductMangemntiman\bin\Debug\net8.0\ProductMangemntiman.exe
+C:\Users\idres\OneDrive\Desktop\code\ProductMangemntiman\ProductMangemntiman\bin\Debug\net8.0\ProductMangemntiman.deps.json
+C:\Users\idres\OneDrive\Desktop\code\ProductMangemntiman\ProductMangemntiman\bin\Debug\net8.0\ProductMangemntiman.runtimeconfig.json
+C:\Users\idres\OneDrive\Desktop\code\ProductMangemntiman\ProductMangemntiman\bin\Debug\net8.0\ProductMangemntiman.dll
+C:\Users\idres\OneDrive\Desktop\code\ProductMangemntiman\ProductMangemntiman\bin\Debug\net8.0\ProductMangemntiman.pdb
+C:\Users\idres\OneDrive\Desktop\code\ProductMangemntiman\ProductMangemntiman\obj\Debug\net8.0\ProductMangemntiman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\idres\OneDrive\Desktop\code\ProductMangemntiman\ProductMangemntiman\obj\Debug\net8.0\ProductMangemntiman.AssemblyInfoInputs.cache
+C:\Users\idres\OneDrive\Desktop\code\ProductMangemntiman\ProductMangemntiman\obj\Debug\net8.0\ProductMangemntiman.AssemblyInfo.cs
+C:\Users\idres\OneDrive\Desktop\code\ProductMangemntiman\ProductMangemntiman\obj\Debug\net8.0\ProductMangemntiman.csproj.CoreCompileInputs.cache
+C:\Users\idres\OneDrive\Desktop\code\ProductMangemntiman\ProductMangemntiman\obj\Debug\net8.0\ProductMangemntiman.dll
+C:\Users\idres\OneDrive\Desktop\code\ProductMangemntiman\ProductMangemntiman\obj\Debug\net8.0\refint\ProductMangemntiman.dll
+C:\Users\idres\OneDrive\Desktop\code\ProductMangemntiman\ProductMangemntiman\obj\Debug\net8.0\ProductMangemntiman.pdb
+C:\Users\idres\OneDrive\Desktop\code\ProductMangemntiman\ProductMangemntiman\obj\Debug\net8.0\ProductMangemntiman.genruntimeconfig.cache
+C:\Users\idres\OneDrive\Desktop\code\ProductMangemntiman\ProductMangemntiman\obj\Debug\net8.0\ref\ProductMangemntiman.dll
+D:\ايمان\iman2025\New folder\ProductMangemntiman\ProductMangemntiman\bin\Debug\net8.0\ProductMangemntiman.exe
+D:\ايمان\iman2025\New folder\ProductMangemntiman\ProductMangemntiman\bin\Debug\net8.0\ProductMangemntiman.deps.json
+D:\ايمان\iman2025\New folder\ProductMangemntiman\ProductMangemntiman\bin\Debug\net8.0\ProductMangemntiman.runtimeconfig.json
+D:\ايمان\iman2025\New folder\ProductMangemntiman\ProductMangemntiman\bin\Debug\net8.0\ProductMangemntiman.dll
+D:\ايمان\iman2025\New folder\ProductMangemntiman\ProductMangemntiman\bin\Debug\net8.0\ProductMangemntiman.pdb
+D:\ايمان\iman2025\New folder\ProductMangemntiman\ProductMangemntiman\obj\Debug\net8.0\ProductMangemntiman.GeneratedMSBuildEditorConfig.editorconfig
+D:\ايمان\iman2025\New folder\ProductMangemntiman\ProductMangemntiman\obj\Debug\net8.0\ProductMangemntiman.AssemblyInfoInputs.cache
+D:\ايمان\iman2025\New folder\ProductMangemntiman\ProductMangemntiman\obj\Debug\net8.0\ProductMangemntiman.AssemblyInfo.cs
+D:\ايمان\iman2025\New folder\ProductMangemntiman\ProductMangemntiman\obj\Debug\net8.0\ProductMangemntiman.csproj.CoreCompileInputs.cache
+D:\ايمان\iman2025\New folder\ProductMangemntiman\ProductMangemntiman\obj\Debug\net8.0\ProductMangemntiman.dll
+D:\ايمان\iman2025\New folder\ProductMangemntiman\ProductMangemntiman\obj\Debug\net8.0\refint\ProductMangemntiman.dll
+D:\ايمان\iman2025\New folder\ProductMangemntiman\ProductMangemntiman\obj\Debug\net8.0\ProductMangemntiman.pdb
+D:\ايمان\iman2025\New folder\ProductMangemntiman\ProductMangemntiman\obj\Debug\net8.0\ProductMangemntiman.genruntimeconfig.cache
+D:\ايمان\iman2025\New folder\ProductMangemntiman\ProductMangemntiman\obj\Debug\net8.0\ref\ProductMangemntiman.dll

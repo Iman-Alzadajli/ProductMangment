@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\idres\\OneDrive\\Desktop\\ProductMangemntiman\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45490647-B393-41C6-9C91-464F9DE9A85B}|ProductMangemntiman\\ProductMangemntiman.csproj|c:\\users\\idres\\onedrive\\desktop\\productmangemntiman\\productmangemntiman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45490647-B393-41C6-9C91-464F9DE9A85B}|ProductMangemntiman\\ProductMangemntiman.csproj|solutionrelative:productmangemntiman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D29DFCD-2192-4D89-B025-58EC47CAB676}|day9pra3\\day9pra3.csproj|c:\\users\\idres\\onedrive\\desktop\\productmangemntiman\\day9pra3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D29DFCD-2192-4D89-B025-58EC47CAB676}|day9pra3\\day9pra3.csproj|solutionrelative:day9pra3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\idres\\OneDrive\\Desktop\\ProductMangemntiman\\day9pra3\\Program.cs",
+              "RelativeDocumentMoniker": "day9pra3\\Program.cs",
+              "ToolTip": "C:\\Users\\idres\\OneDrive\\Desktop\\ProductMangemntiman\\day9pra3\\Program.cs",
+              "RelativeToolTip": "day9pra3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:38:05.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\idres\\OneDrive\\Desktop\\ProductMangemntiman\\ProductMangemntiman\\Program.cs",
+              "RelativeDocumentMoniker": "ProductMangemntiman\\Program.cs",
+              "ToolTip": "C:\\Users\\idres\\OneDrive\\Desktop\\ProductMangemntiman\\ProductMangemntiman\\Program.cs",
+              "RelativeToolTip": "ProductMangemntiman\\Program.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAEMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T14:34:04.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
